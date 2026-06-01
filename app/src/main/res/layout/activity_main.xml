@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAFAFA">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <TextView
+            android:id="@+id/tvStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Etat securite"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:padding="16dp"
+            android:background="#EEEEEE"
+            android:layout_marginBottom="24dp"/>
+
+        <TextView
+            android:id="@+id/tvHello"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Hello JNI"
+            android:textSize="18sp"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tvFact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Factoriel"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+</ScrollView>

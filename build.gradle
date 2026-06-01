@@ -1,0 +1,4 @@
+plugins {
+    id 'com.android.application' version '8.2.2' apply false
+}
+// Configuration centralisée dans settings.gradle. Pas besoin de repositories ici.

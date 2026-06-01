@@ -1,0 +1,3 @@
+C:/Users/Mahmoud/Desktop/bug-bounty/dev_mobile_lab23/app/.cxx/Debug/241o2f2p/x86/CMakeFiles/native-lib.dir
+C:/Users/Mahmoud/Desktop/bug-bounty/dev_mobile_lab23/app/.cxx/Debug/241o2f2p/x86/CMakeFiles/edit_cache.dir
+C:/Users/Mahmoud/Desktop/bug-bounty/dev_mobile_lab23/app/.cxx/Debug/241o2f2p/x86/CMakeFiles/rebuild_cache.dir
